@@ -1,0 +1,7 @@
+---
+datadir: 'data/KNMI.txt.tsv'
+condition_file: "conditions.csv"
+patients_file: "patients.csv"
+observations_file: "observations.csv"
+careplan_file: "careplans.csv"
+encounters_file: "encounters.csv"
